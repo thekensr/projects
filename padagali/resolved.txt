@@ -1,0 +1,7 @@
+{
+'Pondelok': [('Chicken Soup', 'Kuřecí polévka', '27 CZK'), ('Kolhapuri Chicken', 'Velmi ostré kuřecí kousky v kolhapurské omáčce', '109 CZK'), ('Butter Chicken', 'Pečené kuřecí kousky v jemné máslové omáčce', '109 CZK'), ('Aloo Matar', 'Kousky brambor s hráškem, podávané v jemně ochucené omáčce', '109 CZK'), ('Chicken Salad', 'Zeleninový salát s kuřecím masem', '139 CZK')],
+'Utorok': [('Mushroom Soup', 'Žampionová polévka', '27 CZK'), ('Chicken Tikka Masala', 'Kuřecí kostky ve středně pálivé omáčce s cibulí, rajčaty a paprikou', '109 CZK'), ('Methi Chicken', 'Kuřecí kostky v bylinkové kari omáčce se sušenými listy pískavice', '109 CZK'), ('Pindi Chana', 'Tmavá cizrna v kari omáčce s koriandrem, kurkumou a zázvorem', '109 CZK'), ('Chicken Salad', 'Zeleninový salát s kuřecím masem', '139 CZK')],
+
+'Stvrtok': [('Matar Soup', 'Hrášková polévka', '27 CZK'), ('Chicken Fal', 'Kuřecí kostky v extrémně ostré kari omáčce', '109 CZK'), ('Kadai Chicken', 'Kuřecí kostky v lahodné omáčce s kousky papriky a indickým kořením', '109 CZK'), ('Palak Paneer', 'Indický domácí sýr v kari omáčce se špenátem', '109 CZK'), ('Chicken Salad', 'Zeleninový salát s kuřecím masem', '139 CZK')],
+'Piatok': [('Dal Palak Soup', 'Polévka s čočkou a špenátem', '27 CZK'), ('Chicken Vindaloo', 'Kuřecí kostky ve velmi ostré omáčce s bramborami', '109 CZK'), ('Chicken Mango', 'Kuřecí kostky v mangové kari omáčce', '109 CZK'), ('Mushroom Curry', 'Žampiony v kari omáčce', '109 CZK'), ('Chicken Salad', 'Zeleninový salát s kuřecím masem', '139 CZK')]
+}
